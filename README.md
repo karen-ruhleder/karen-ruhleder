@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This account is where you'll find my board game design files, presentations files, and anything else I'd like to share with the world.
 <!--
 **karen-ruhleder/karen-ruhleder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
